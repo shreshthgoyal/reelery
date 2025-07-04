@@ -1,0 +1,17 @@
+{
+  "gtts": {
+      "language": "en"
+  },
+  "video": {
+      "csv_file": "scripts/content.csv",
+      "video_folder": "inputs/videos",
+      "audio_folder": "inputs/audio",
+      "output_folder": "outputs",
+      "font_path": "assets/fonts/arial.ttf",
+      "font_size": 60,
+      "hook_font_size": 80,
+      "cta_font_size": 60,
+      "text_color": [255, 255, 255, 255],
+      "output_size": [1080, 1920]
+  }
+}
